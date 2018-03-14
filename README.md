@@ -9,5 +9,5 @@ $1550,$1700,$900,$850,$1000,$950.
 ## Snapshot - standard deviation implementation
 
 
-![alt text](screenshots/std_dev_.png "std_dev_")
+![alt text](screenshots/std_dev.png "std_dev_")
 
